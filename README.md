@@ -1,6 +1,6 @@
 # Send Email with Attachment in Python  
 
-This Python script sends an email with an attachment (like an image or PDF) using Gmail’s SMTP server.  
+This Python script sends an email with an attachment like an image using Gmail’s SMTP server.  
 It connects securely, logs in with your Gmail App Password, and sends your file to the receiver.  
 
 ##  How It Works  
